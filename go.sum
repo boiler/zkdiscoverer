@@ -1,0 +1,4 @@
+github.com/samuel/go-zookeeper v0.0.0-20201211165307-7117e9ea2414 h1:AJNDS0kP60X8wwWFvbLPwDuojxubj9pbfK7pjHw0vKg=
+github.com/samuel/go-zookeeper v0.0.0-20201211165307-7117e9ea2414/go.mod h1:gi+0XIa01GRL2eRQVjQkKGqKF3SF9vZR/HnPullcV2E=
+github.com/strava/go.serversets v0.0.0-20160216000557-6b724900cd03 h1:M6JxPBLvWrJfvo41QhaZfKPf4aOTioakj06Q2EhGNr8=
+github.com/strava/go.serversets v0.0.0-20160216000557-6b724900cd03/go.mod h1:zag276o8thy+S/qyTmxR2FOXsNqebWIO7StJjAmkuB0=
